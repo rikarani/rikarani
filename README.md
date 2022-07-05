@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm @rikarani</h1>
-<h3 align="center">Cuma Bocil yang kepengen jadi Frontend Developer</h3>
+<h3 align="center">Bocil yang kepengen jadi Frontend Developer</h3>
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript ama TailwindCSS**
+- 🌱 masih belajar **HTML, CSS, JavaScript ama TailwindCSS**
 
-- ⚡ Fun fact **Wibu**
+- ⚡ Fun fact : **Wibu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
